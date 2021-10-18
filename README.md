@@ -9,7 +9,7 @@ This app was originally a Google Books API search engine built with a RESTful AP
 
 https://mysterious-coast-32932.herokuapp.com/
 
-<img src="bookSearchEngineScreenshot.PNG/>
+<img src="/bookSearchEngineScreenshot.PNG />
 
 AS AN avid reader
 I WANT to search for new books to read
@@ -59,7 +59,7 @@ m_eck12@outlook.com
 
 
 
-https://github.com/meck512/Book-Search-Engine
+
 
 
 
